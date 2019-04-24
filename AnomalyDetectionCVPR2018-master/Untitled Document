@@ -1,0 +1,8 @@
+1> Kiểm tra lại cách tính False alarm rate on normal videos
+2> Thay vì chọn 1 segment có giá trị max, ta chọn K segments có giá trị max ***
+3> Thông tin các lớp có thể trợ giúp cho phần MIL gì?
+4. Có thể cải thiện feature bằng Optical flow
+5. Thử trên dataset của Tú
+6. Các vấn đề về feature, MIL, C3D, thử chia số segment khác
+
+!!! Nốt hết lại để cho vào báo cáo
